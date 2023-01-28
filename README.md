@@ -1,6 +1,8 @@
 # Računarska Grafika Projekat - KARIBI
 
-## Bojana Karanović RA 130/2019
+### Bojana Karanović RA 130/2019
+
+Projekat iz predmeta računarska grafika, FTN.
 
 [Uputstvo za instalaciju i materijal sa vežbi korišćen za izradu projekta](https://github.com/L4v/computer_graphics/)
 
